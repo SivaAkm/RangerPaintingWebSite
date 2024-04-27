@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/RangerPaintingWebSite/static/css/main.a4fccf36.css",
-    "main.js": "/RangerPaintingWebSite/static/js/main.7b041e9d.js",
+    "main.js": "/RangerPaintingWebSite/static/js/main.b5a83ed4.js",
     "static/js/453.48ed8b03.chunk.js": "/RangerPaintingWebSite/static/js/453.48ed8b03.chunk.js",
     "static/media/ext1.jpg": "/RangerPaintingWebSite/static/media/ext1.5d8fdea6263bbb944d23.jpg",
     "static/media/int6.jpeg": "/RangerPaintingWebSite/static/media/int6.6bf55e6f971a0406e7fa.jpeg",
@@ -22,11 +22,11 @@
     "static/media/int1.png": "/RangerPaintingWebSite/static/media/int1.3d8d3f0912bd2860b9f7.png",
     "index.html": "/RangerPaintingWebSite/index.html",
     "main.a4fccf36.css.map": "/RangerPaintingWebSite/static/css/main.a4fccf36.css.map",
-    "main.7b041e9d.js.map": "/RangerPaintingWebSite/static/js/main.7b041e9d.js.map",
+    "main.b5a83ed4.js.map": "/RangerPaintingWebSite/static/js/main.b5a83ed4.js.map",
     "453.48ed8b03.chunk.js.map": "/RangerPaintingWebSite/static/js/453.48ed8b03.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a4fccf36.css",
-    "static/js/main.7b041e9d.js"
+    "static/js/main.b5a83ed4.js"
   ]
 }
